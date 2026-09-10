@@ -1,0 +1,19 @@
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+
+# Large raw dataset files (downloaded dynamically or stored locally)
+data/twcs_sample.csv
+data/amazon_help_pairs.parquet
+
+# Environment and IDE files
+.env
+.venv
+venv/
+ENV/
+.vscode/
+.idea/

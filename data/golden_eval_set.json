@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "GOLD_001",
+    "customer_text": "@AmazonHelp 3 different people have given 3 different answers and I still don't have my order. Says delivered Saturday, was not, I was home all day",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115820 We'd like to take a further look into this with you! Please reach us by phone or chat here: https://t.co/hApLpMlfHN ^AG",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_002",
+    "customer_text": "@AmazonHelp @115826 Yeah this is crazy we’re less than a week away and still no Shipping Information on something that we Pre-ordered back in August",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115827 Thanks for your patience. ^KM",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_003",
+    "customer_text": "@115828 How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it’s only a week away",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115826 I'm sorry for the wait. You'll receive an email as soon as we have an estimated delivery date. ^FJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_004",
+    "customer_text": "@115821 @AmazonHelp why is my order at my local courier for the last 6 days and still hasn’t been delivered to me?? Over 1 week late 😡",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115831 I'm sorry for the wait. Please reach out to us so we can take a closer look at this delivery: https://t.co/JzP7hlA23B ^SH",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_005",
+    "customer_text": ".@AmazonHelp Item has not been delivered but tracking says it was handed to me over an hour ago... 2nd time this has happened. Sort it out https://t.co/42W82GcARk",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115835 I'm so sorry you didn't receive your parcel! We'd like a chance to look into this with you here: https://t.co/JzP7hlA23B ^SY",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_006",
+    "customer_text": "Anna Inspired in idea lab at school to be @115821 package being shipped to Narnia! \"Amazon can go anywhere\" according to Anna. https://t.co/TyvKhuu7su",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115843 You're not lion! She even shows witch way is up! That's quite the wardrobe! ^AC",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_007",
+    "customer_text": "@115845 They sent the feckin' order to Germany! Some dozy driver is looking for an address in the wrong country! I'm so done with Amazon!",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115844 Oh my! I'm sorry for the troubles! Contact us by Phone or Chat: https://t.co/JzP7hlA23B &amp; we'll be glad to help! ^FR",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_008",
+    "customer_text": "@115847 @115821 Yeah idk the shipping company and it says “mike Ziemer” signed for it in the mail room at our building lol",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115846 That's okay! Thanks for checking! Please contact us by phone or chat and we can look into this: https://t.co/hApLpMlfHN ^BN",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_009",
+    "customer_text": "@AmazonHelp Already contacted 3-4 times in the last month. But all I got was assurance that matter is escalated &amp; new status will be provided in 1 day!",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115849 Please share your details here:https://t.co/GIJyeYqKE0 and I'll get back to you. 2/2 ^HD",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_010",
+    "customer_text": "@115850 @115821 @AmazonHelp @115851 Order# 3632693-6196346. You couldn't deliver EVEN AFTER A MONTH. You should be ashamed of yourself.",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115849 Please report this to our support team here: https://t.co/TdDksLo6Mf and we'll look into this. 2/2 ^HD",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_011",
+    "customer_text": "@AmazonHelp since when you stop giving 20% off videogame pre-orders (amazon prime members) im confused? why?",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115852 We still offer discounts on eligible physical game pre-orders. For further details on Prime benefits: https://t.co/80y2YnlQGJ ^MB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_012",
+    "customer_text": "Just pulled another #Amazon delivery out of the bushes since the #amzl people can’t walk the extra 2 ft to my door. So tired of this.",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@115853 I'm sorry we let you down! We'd like to make sure this is addressed. Please provide some details here: https://t.co/z6evtFsZI5 ^BN",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_013",
+    "customer_text": "@AmazonHelp but I can’t find the options to cancel or re-order?",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116081 I'm sorry for the delay! We'd like to take a further look into this with you! Please reach us here: https://t.co/hApLpMlfHN ^AG",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_014",
+    "customer_text": "@115821 my order hasn’t arrived (it was due 14th October). Can you help?",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116081 Hey Georgia! Sorry you haven't received your package. We'd love to help! What does the current tracking say on your order? ^AJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_015",
+    "customer_text": "Seriously @115821? I order 6 identical washing up bowls and they are all being dispatched as separate orders? My phone is buzzing non-stop!",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116086 Sorry for the inconvenience! Check out how to manage your notifications here: https://t.co/DLN4bDuc5B ^SG",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_016",
+    "customer_text": "@AmazonHelp My package just got here. All good, thank you!",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116087 Thank you for keeping us posted, Rachael! ^BA",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_017",
+    "customer_text": "I ordered some parts of my costume late, but my amazon has a map of the driver and they're like, 6 houses away.",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116087 I'm sorry for the long wait; what is your current order status showing when you review it: https://t.co/Y5jpI9gRhE? ^WM",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_018",
+    "customer_text": "@AmazonHelp Deluxe edition on September 16th. It definitely had the pre orders on the profile because that’s why I ordered. Also why I paid for Prime..",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116088 Could you link us to the page of the item on our website? This will allow us to take a closer look at all options. ^VB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_019",
+    "customer_text": "@AmazonHelp Star Wars Battlefront 2 Elite Trooper Deluxe Edition Playstation 4 https://t.co/6K7WdDcY2P preorder info is in description. Thanks for help",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116088 Thanks for the link. We are not a participating retailer to receive the bonus content. Details: https://t.co/hJIrBtSMrl ^BE",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_020",
+    "customer_text": "@AmazonHelp that is not my apartment!!!!!!! This is the sending time!!!! Where is my package!!!!!!!!!! https://t.co/EIY6DZUCDC",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116094 (2/2) Also, for your security, I'd recommend deleting the image, as it contains your tracking number. ^WT",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_021",
+    "customer_text": "@AmazonHelp Hi, I ordered an item on 18 Oct which said it would be delivered by 20 Oct and I still haven't received it. Can you help? Thanks",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116314 I'm sorry you haven't received it yet! Have you had an e-mail regarding the order? Please check junk/spam and let us know! ^TG",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_022",
+    "customer_text": "@AmazonHelp I allowed it well past 8 PM. I was never notified about any other delays",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116317 I'm sorry that it still hasn't arrived. Please contact us so that we can look into this together: https://t.co/hApLpMlfHN ^EA",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_023",
+    "customer_text": "@AmazonHelp I made a same day ship mid Monday and it said it would deliver that day. It didn’t. Today it still says out for delivery, still no show.",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116317 I'm so sorry for the late delivery, Kimmie! Our carriers can deliver until 8 PM, please keep us updated on its arrival. ^BE",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_024",
+    "customer_text": "@AmazonHelp hello, I’m having an issue with a same day ship order. Can you help me?",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116317 Hello! We'd love to help. Can you tell us a bit more about what's happening? ^EB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_025",
+    "customer_text": "@AmazonHelp Where is my order? https://t.co/pXnKSCo2ex",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116319 I'm sorry it hasn't arrived! Please reach us here: https://t.co/e6dQwzp386, so we can look into available options. ^SJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_026",
+    "customer_text": "Hey @115821, why is your Prime 2-day delivery not arriving until Monday? Is there a holiday I don't know about?",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116320 Most items are readily available for shipping; however, some aren't and may have a longer processing time than others. ^QJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_027",
+    "customer_text": "@AmazonHelp No on the card. It works only half the time. Yes on USPS. They say my delivery person won’t deliver anything over 30 lbs. just sends it back",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116325 We'd like another chance to look into this. Please reach out by phone or chat: https://t.co/hApLpMlfHN Please keep us updated. ^FJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_028",
+    "customer_text": "just noticed I paid £4.95 delivery on Amazon simply because I did not select the FREE delivery option, after I spent enough to qualify... what a RIP OFF, why is it not free automatically when qualifying @115830",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116586 Hi, you can edit your order at any time before it enters the dispatch process. To do this please check out our help page: https://t.co/wRa3FyXyBb ^KI",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_029",
+    "customer_text": "@115830 Why do you say that an article is eligible for free delivery then offer nothing but standard option at £4.75?",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116610 Is everything in your basket eligible? You can find more info here: https://t.co/d1x19RiAXm Let us know if this helps! ^EB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_030",
+    "customer_text": "Thanks @116090 for ruining #Halloween - still no sign of the costume I ordered in Sept. Guess Rosie will just have to sit this one out. https://t.co/1tVEv5DZuM",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116615 Not what we like to hear at all, Ramya! Was this shipped by us or a seller? You can check here: https://t.co/PyACxvY8Qo ^BL",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_031",
+    "customer_text": "@115830 you pay for prime expecting next day delivery. Then receive 2 emails half hr apart 'failed delivery' but your sitting at home 😡",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116619 I'm sorry your parcel wasn't delivered. Please reach us here: https://t.co/XRh1cqD2lT, so we can look into this with you. ^MO",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_032",
+    "customer_text": "@115821 Apparently if you preorder something then move and update your address the preorder doesn't update automagically. #lessonlearned?",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116847 Uh oh! If you can't recover it, please reach out to us here and we'll see what options are available: https://t.co/VoPytkt92p ^MB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_033",
+    "customer_text": "@AmazonHelp They said it was UPS. UPS says they never received the package to deliver ¯\\_(ツ)_/¯",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116851 To confirm, what does the latest tracking update show? Please check here: https://t.co/eR31oAnsW2 ^BE",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_034",
+    "customer_text": "Hey @115821, maybe don't ask people to pay $8 for \"launch day arrival\" if you're not going to ship the package until the day after launch!",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116851 I'm sorry for the poor experience, Skylar. Were you given a reason for the delay? Check here: https://t.co/KhGfgWxX2q ^FD",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_035",
+    "customer_text": "Ordered one simple camera from @115821 3x and all the 3x it’s been lost in transit. Ha you’ve got to be kidding me.. 😒😒😒😒😒",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116852 I'm very sorry about your lost package, Lodi! We'd like to help! Please reach out to us here: https://t.co/hApLpMlfHN ^HM",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Missing or severely overdue delivery status requires carrier investigation via account portal.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_036",
+    "customer_text": "Got 2 packages delivered today from @115821 via their AMZL service. One package gets dumped at Leasing Office, which is not the address on package &amp; 1 package gets delivered to address on package, which is my apartment. 2 drivers, different results. I was home all day.",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116876 I'm sorry for the frustration! We'd like to investigate and escalate this to the correct team. Please send us your details here: https://t.co/z3ZEuyUDXX ^JP",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_037",
+    "customer_text": "@AmazonHelp I have no option but to see if my delivery arrives on the scheduled date. But I will contact customer services if it doesn't arrive on time.",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116877 Thanks for the additional information. Keep us posted on the arrival of your packages! Let us know if you have any further questions. ^SW",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_038",
+    "customer_text": "I swear Amazon are trying to annoy me, I've just ordered another package and had a shipped to wrong carrier facility message again and my order may be delayed. 1st echo dot and then 3 packages lost and now another echo dot possibly delayed.",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116877 I'm sorry for the ongoing trouble with your deliveries! Have you had a chance to contact us about this: https://t.co/JzP7hlA23B? If so, what information or options were we able to offer? ^SB",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Missing or severely overdue delivery status requires carrier investigation via account portal.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_039",
+    "customer_text": "Amazon delivery guy refused to give the police his ID and suddenly started sounding like an attorney. Good grief",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116913 We'd like to make sure this is addressed, Eric. Would you tell us more about what happened? ^AM",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_040",
+    "customer_text": "@AmazonHelp AMZL US Tracking ID TBA566517950000 it says delivered to mail room, I checked the mail and the front offce, the driver listed 1 package, in that one package was my XLR cables...I'm missing the controller.",
+    "ground_truth_intent": "SHIPPING_DELIVERY_INQUIRY",
+    "historical_reply": "@116914 I understand your frustration! Our team would like a chance to address this concern. At your convenience, include your details here: https://t.co/hKZOmv3DMU ^SJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "General tracking inquiry or shipping status request can be handled via standard tracking self-service link.",
+    "notes": "Stratified sample for intent SHIPPING_DELIVERY_INQUIRY."
+  },
+  {
+    "id": "GOLD_041",
+    "customer_text": "@AmazonHelp Already started the return. UPS gets it from my doorstep tomorrow. Order 111-5014070-4118645",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@115838 Provide your details here: https://t.co/6f6cWZv7vm and my team will escalate the order to Amazon Logistics for feedback. ^EZ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_042",
+    "customer_text": "@AmazonHelp yes i did,but amazonuk is not doing the refund process.if they do it .i will get the money",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@116321 I would like someone from our team to take a look into this for you, Sanu. Please reach out here: https://t.co/QtC7bueYoR ^LA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_043",
+    "customer_text": "@115830 amazonuk took money without any https://t.co/w25zXi7DYp they are not giving it back nor giving clear statement of my refund proces",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@116321 I'm sorry for the frustration! Without giving personal/account details, could you tell us a bit more about what's going on? ^DG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_044",
+    "customer_text": "@AmazonHelp I would like it replaced not refunded. But the sale is over, and doesn’t look like you have it in stock at the site. What are my other options?",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@116912 Thanks for reaching back out to us! If your item is not eligible for replacement, you can still return the item for a full refund instead. You can view your replacement and/or return options here: https://t.co/TGLNUK2VHy ^BN",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_045",
+    "customer_text": "@AmazonHelp And you guys have officially lost me as a customer. Was promised today...was never shipped. Give me my refund please so I may take my business else where. https://t.co/69tW0B5r9H",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@116914 I'm truly sorry for the inconvenience! We don't have access to your account via Twitter. We'd like to help if we can. Please connect with us here so we can assist you: https://t.co/hApLpMlfHN ^MO",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_046",
+    "customer_text": "@AmazonHelp UPS supposed to pick up a return package yesterday and bring return label... never showed.",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@117493 I'm sorry your package wasn't picked up! When you have a moment, reach out to us here: https://t.co/EKXRLsnxJu ^AC",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_047",
+    "customer_text": "@AmazonHelp What support team are you talking about ? I called twice n they make it sound like they will graciously refund my money. But then nothing",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@117789 Sorry for this ordeal, Benish. Please share your details here: https://t.co/GIJyeYqKE0 and I'll get in touch with you. ^HD",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_048",
+    "customer_text": "@AmazonHelp I've returned several things lately and don't want Amazon to think I'm abusing the return policy.",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@117790 I understand! Returns can be made as long as they fall under this policy: https://t.co/i3QyGkjfQI. Hope this helps! ^BL",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_049",
+    "customer_text": "@AmazonHelp Was sent this item in 6x9 size. Trying to return &amp; UPS did not show up today. I'd keep item if I could get refund for price difference. https://t.co/G1a6por32Z",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@117798 We would like to investigate further with you. Please reach out to us at your convenience: https://t.co/hApLpMlfHN ^JP",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_050",
+    "customer_text": "Seriously @115821 what is up with ordering things and it being open? You guys shipping returned items. 2nd day in a row this happens :SMH: https://t.co/gMyT1z9Zu1",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@118355 We do not want this to happen and are eager to help. Reach out to us for more assistance here: https://t.co/hApLpMlfHN ^LM",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_051",
+    "customer_text": "@115850 Unable to what they promised not gave one plus 5 offer only sale product after they Dont care also not return back,Its hopless😡",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@118703 Sorry for the inconvenience. Please share your details here: https://t.co/GIJyeYqKE0 and I'll get in touch with you. ^MK",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_052",
+    "customer_text": "@119038 @115821 If it isn't clear yet, I WANT MY MONEY BACK. I NEVER AUTHORIZED THE LAST 4 TRANSACTIONS THAT WERE MADE. WTF.",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119037 I'm sorry you were charged unexpectedly! Please reach out to Amazon Pay for available options here: https://t.co/jiY13BA3fb ^JP",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_053",
+    "customer_text": "@AmazonHelp no body inform me. once u return that parcel. please send the tracking id or parcel details. but after 10days i call amazon custamare care",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119214 Thank you for sharing your details, Dhinesh. We'll check your concern and reach you soon. ^VG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_054",
+    "customer_text": "@115821 407-8406190-7752345. i want refund amount -1399/- amazon seller was lying. amazon custamare care side also.",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119214 Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^SC",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_055",
+    "customer_text": "@AmazonHelp Order no - 403-7559101-5645129 Return reference - 710398288491 Article name - puma shoes",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119451 number. Also, please don't provide order details, we consider it to be personal info. Our page is visible to the public.(2/2)^SF",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_056",
+    "customer_text": "Haven't received my refund, it's been more than a week @115850",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119451 Sorry for the delay. Have you received the refund reference number? ^NS",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_057",
+    "customer_text": "Hey @115850 @AmazonHelp I need an update on my refund! Can you help?",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119452 You may track your refunds using the link: https://t.co/LjYILTJREp. Please keep us posted. ^GS",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_058",
+    "customer_text": "@115850 No speedy respnse frm the seller side..I asked 2 return my money but they are not ready 2 clr my issue i need my query to b solved",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119535 time frame has passed and you haven't received any update or if you aren't satisfied with seller's reply then you may file 2/n ^SH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_059",
+    "customer_text": "@AmazonHelp No one knows what to do to get my refund back to me! https://t.co/q71Ycboikm",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119697 I'm sorry for the trouble. Generally, the bank can issue a refund to the new active card on file. Please keep us updated. ^LR",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_060",
+    "customer_text": "@AmazonHelp All m getting is apologies but no refund.. everything is online, unable to understand the delay!!",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119700 You must have received a correspondence to your registered email address, request you to check the same. ^SH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_061",
+    "customer_text": "@AmazonHelp form has been filled awaiting for a solution n refund. I have already invested my energy in explaining before, kindly treat it urgent.",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119700 Apologies for the bad experience. Thanks for sharing your details. We'll get in touch with you. Appreciate your patience. ^AK",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_062",
+    "customer_text": "@115850 406-5758893-2189165 faulty pc. the pc. returned but no refund recd. till now, got mail refund will be made in 5 days, bt not done. https://t.co/1jCDRlwfIZ",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119700 I'm sorry for the trouble. Please fill this form: https://t.co/beaaDm0muc and we’ll contact you at the earliest. ^AU",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_063",
+    "customer_text": "@AmazonHelp Amazon its a complete fraud now u are saying u will ship till 7th please for god sake #help #cancelorder #refund #fraud #poorcustomerservice https://t.co/riuEM7g6om",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119701 Could you please let us know if you had received any email stating the package was going to be shipped by 7th ? ^KS",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_064",
+    "customer_text": "@AmazonHelp Do u hav brain the product is taking more then a week to reach me and i am #primememeber and can u read i need a #refund now i dnt #trust",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119701 details here: https://t.co/GIJyeYqKE0 and I'll get back to you. (3/3) ^KA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_065",
+    "customer_text": "@AmazonHelp When will i be getting a refund of this product #help #pleasebesensable https://t.co/gGgeU6tmhP",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119701 Our team has sent you a correspondence. Kindly check it here: https://t.co/8DAc10S7ww ^AP",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_066",
+    "customer_text": "@AmazonHelp Most #pethetic service right look at the time i am waiting since 2 days and guess wat I am a #primemember #badservice #refund https://t.co/KKsr3XCfjz",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119701 I'd like to take a closer look into this, please share your details here: https://t.co/GIJyeYqKE0. ^AG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_067",
+    "customer_text": "@AmazonHelp Kindly return my prime membership amount",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119791 Please connect with our support team here: https://t.co/2t6DQoUmNZ for further assistance on it. ^RW",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_068",
+    "customer_text": "@AmazonHelp No use of prime membership, return my money",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119791 Could you please confirm, if we've missed the estimated delivery date? ^AG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_069",
+    "customer_text": "@AmazonHelp wht explanation would you like 2 gv now as mor order got cancelled n products r returned back after waiting 4 mor thn two weeks?",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119798 I'm sorry about that. Could you confirm sharing your details in the link shared earlier? ^GK",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_070",
+    "customer_text": "@AmazonHelp #pathetic customer service. New low in e-commerce. Trying to raise a return request 5 times. #Fail",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119902 Sorry for the trouble while raising a return request. May I know if you have been asked to self return the item? ^SH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_071",
+    "customer_text": "@AmazonHelp I need a solution why u r not helping consumers on self return things. M not bought product to self return. Why Amazon allows such seller",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119904 to our team internally to work on it. 2/2 ^SB",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_072",
+    "customer_text": "@AmazonHelp @115850 I have bought a product and now it's size is not matching I want to return it and also requested return process.",
+    "ground_truth_intent": "REFUND_RETURN_REQUEST",
+    "historical_reply": "@119904 You may refer here: https://t.co/M27c4qF86m for details on refund for return shipping charges. Hope this helps! 3/3 ^AB",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Financial transaction refund or order return requires account lookup and formal refund authorization.",
+    "notes": "Stratified sample for intent REFUND_RETURN_REQUEST."
+  },
+  {
+    "id": "GOLD_073",
+    "customer_text": "@115823 I want my amazon payments account CLOSED. dm me please.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@115822 I am unable to affect your account via Twitter. For real time support, phone or chat use this link: https://t.co/hApLpMlfHN ^CH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_074",
+    "customer_text": "Bought an @115821 Echo Show and it won’t recognize a single @AmazonHelp account in our household. WTF, guys?",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@115834 Oh no, I'm sorry for the issues! For troubleshooting, please check out our Echo Help pages here: https://t.co/a31c4ynHES ^SG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_075",
+    "customer_text": "@AmazonHelp delivery I paid for today,didn’t arrive.why not?i paid enough for it.where is it??I’m unhappy.refund the delivery charge",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@115842 Oh no! Please contact us via phone/chat here: https://t.co/JzP7hlA23B We're unable to view order details via Twitter. ^KL",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_076",
+    "customer_text": "@AmazonHelp Thats the thing I told customer service. I created a new email address for the Prime trial and forgot it. What can I do so I'm not charged?",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116082 Hey Corey! Even on the new account you made you can turn of the auto renew through the same link ^SK posted for you. ^AJ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_077",
+    "customer_text": "@AmazonHelp You have to log in. I don't remember the email address I used. Can you look up the account by my bank information?",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116082 It would be best if you get in touch with us by phone or chat.use this link to do so: https://t.co/hApLpMlfHN ^CH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_078",
+    "customer_text": "@AmazonHelp I called customer service and was told my membership wouldn't be renewed. I was just charged today. How do I get a refund? https://t.co/SeoQUsA0VA",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116082 Canceling your Prime membership can be done here:https://t.co/MlOxxuNX7N. You'll be shown your estimated refund there. ^SK",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_079",
+    "customer_text": "@AmazonHelp I have tried. It’s not allowing me to access my account to cancel my membership, I haven’t even used prime in almost 3 months.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116083 I'm sorry to hear you're not able to access your account. Please use this link instead to contact us: https://t.co/zYVX1Qi29G. ^LH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_080",
+    "customer_text": "@115821 being charged for amazon prime &amp; when I go to cancel it, it’s saying I’m not a member😠😠😠",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116083 Hmm... We'd like to take a better look at this with you. Please reach us via phone/chat here: https://t.co/JzP7hlA23B ^KP",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_081",
+    "customer_text": "@AmazonHelp where can I chat with a support member for a false charge",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116084 I'm sorry you've encountered an unknown charge! We'd be happy to look into this with you here: https://t.co/hApLpMlfHN ^BL",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_082",
+    "customer_text": "@AmazonHelp if I add another adult to my Amazon household (with their own account) can they see my wishlists/photos/order history?",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116085 Thanks for reaching out to us! You can find info on adding household members here: https://t.co/i3uumZzaok ^MO",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_083",
+    "customer_text": "@AmazonHelp It’s not allowing me to update it to register my new amazon account. I read I’d have to do so manually. Thx 4 response.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116093 No problem! You may need to deregister the Kindle from the old account. You can see how here: https://t.co/zyUJKBZObw ^AJ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_084",
+    "customer_text": "@AmazonHelp i mailed amazonuk so many time. but i havent got any progress.customer care just saying thats in the billing section.no i havent got refund",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116321 Have you had a chance to speak with your bank regarding the refund? ^EA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_085",
+    "customer_text": "@AmazonHelp and redund issued on 13th https://t.co/1uydlorGCp no sing of my money and amazonuk just saying its in the billing department.no signof devlp",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116321 When you last contacted us what information did we provide? Have you spoken with your bank to see if they have the refund? ^LR",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_086",
+    "customer_text": "@AmazonHelp i reset my password 3 times and it still says incorrect you gotta be shitting me",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116611 I'm sorry for the trouble! Have you tried the steps outlined here? https://t.co/POJ37mWiEk ^LA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_087",
+    "customer_text": "@AmazonHelp I can’t log in because it’s locked.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116612 The link ^TN provided will allow you to contact us without signing in! Select \"skip log in\" and you'll be in touch in no time! ^VB",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_088",
+    "customer_text": "@AmazonHelp um, my account was locked as soon as I tried to login on desktop. I still haven’t received an email on how to get it unlocked...",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116612 I'm sorry your account is locked! Please reach out directly to us here: https://t.co/jzvkhdlrK5 so we can take a closer look. ^TN",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_089",
+    "customer_text": "@AmazonHelp I need to change the language of my account to be able to get support, which I don't have the time to do, there's any other way to contact?",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116617 Changing language is just a simple click: https://t.co/CXXk5VglR4 You can reach our support here: https://t.co/aAfOxTGpe1 ^UK",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_090",
+    "customer_text": "@AmazonHelp already tried help by mail and still problem persist, please close my account and don't want to be a customer anymore https://t.co/m2g5tP26fX",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116849 I'm sorry. We can't access your account via Twitter. For assistance, please reach us here: https://t.co/jzvkhdlrK5 ^WT",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_091",
+    "customer_text": "@AmazonHelp no luck on receiving the code by text or call, will I loose my account, yesterday a phone representative tried to help already https://t.co/Yn5SUBQonU",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116849 I'm sorry for the challenge signing in. Please use the link from above again so that we can help. Keep us updated! ^MH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_092",
+    "customer_text": "@AmazonHelp Im not receiving 2step code by text or call in my smartphone can't log in into my account already got help by phone with no luck",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116849 Sorry you're having problems logging in. Please let us know which Amazon site you are using (.com .es). Thanks. ^SE",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_093",
+    "customer_text": "@AmazonHelp I’m looking to reroute all my packages (except 1) to a nearby Amazon locker. I’ll DM you now :)",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116923 Thanks for the information. We've responded to your DM. ^GG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_094",
+    "customer_text": "@AmazonHelp Still not working. They sent me a link to reset the password, try and sign in with new password and still locked out.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116932 Did information get sent to our Accounts Specialists to look into when you contacted in? ^DO",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_095",
+    "customer_text": "@AmazonHelp Someone keeps trying to buy playstation cards on my account. Having a hard time getting customer service",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116932 Thanks for letting us know about this, Jon. We're here to help! We can be reached 24/7 here: https://t.co/hApLpMlfHN. Please do keep us in the loop. ^BL",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_096",
+    "customer_text": "@AmazonHelp Trying to place an order this happened before and deleting and rentering my address fixed it but now it's across multiple prime accounts to the same address",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@116936 Prime shipping refers to transit time after your orders ship, in working days. Some orders require additional processing and handling. The delivery date shown at checkout is the most accurate. ^LR",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_097",
+    "customer_text": "@AmazonHelp why doesn't blue light filter work on kids account on the fire kids edition?",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@117946 I'm sorry! Blue Shade isn't a supported feature on child profiles. ^WT",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_098",
+    "customer_text": "@AmazonHelp did amazon get hacked?",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@117949 We'd like to help! Have you noticed any unauthorized activity on your account? ^VB",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_099",
+    "customer_text": "@115851 my Amazonid is __email__ is blocked since 3months please unblock it.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@118231 Hi, you should have received an email with an update over your account. We will not be check this for you. ^RW",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_100",
+    "customer_text": "@115821 WTF MAN. YALL LET SOME RANDO CHANGE MY EMAIL TO MY ACCOUNT AND NOW I CANT LOG IN. FIX IT!!!!!",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@118498 I'm so sorry about that, Alexis. When you can, please reach us here so we can better assist: https://t.co/hApLpMlfHN ^BL",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_101",
+    "customer_text": "@AmazonHelp when do you guys charge for the Xbox one X I preordered? It ships the 6th.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@118828 Thanks for reaching out to us! You will be charged for your order once it ships out. ^FJ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_102",
+    "customer_text": "@AmazonHelp I talked on the phone to someone who offered 10 percent off but that isn't on the account yet. Still don't know delivery date.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@118925 Which carrier was assigned to deliver your package today? ^TN",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_103",
+    "customer_text": "@AmazonHelp Would like to thankyou for ur efforts..amount credited back to my account today.!!",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@119700 You're most welcome. Glad to know that refund has been credited. Have a great day ahead! ^AR",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_104",
+    "customer_text": "@AmazonHelp Last mail rec'd on 09.10.2017 stating refund will be in my account by 14.10.2017 Bt same not rec'd.",
+    "ground_truth_intent": "ACCOUNT_SECURITY_BILLING",
+    "historical_reply": "@119700 That's strange. Kindly write back to the email received and we'll check this out for you. ^VM",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Involves sensitive account state, login credentials, or billing details requiring authenticated support link.",
+    "notes": "Stratified sample for intent ACCOUNT_SECURITY_BILLING."
+  },
+  {
+    "id": "GOLD_105",
+    "customer_text": "@115830 my package was ‘accidentally’ opened.. 4 items missing worth £97. You need better delivery drivers!! https://t.co/f6SaVBSMqM",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@115829 I'm sorry your order arrived in this condition! Please reach out to us for available options: https://t.co/JzP7hlA23B ^DG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_106",
+    "customer_text": "@AmazonHelp Is it possible to prevent AMZL from delivering my packages moving forward? Stuff is either lost/stolen/broken EVERY time.",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@115838 Oh no! We want to hear more about your experience with AMZL. Please provide your feedback here: https://t.co/hApLpMlfHN ^SH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_107",
+    "customer_text": "@115821, it’d be nice if the book I waited 4 months for wasn’t damaged inside of an undented box. #twinpeaks #twin… https://t.co/Lac4K7iQzJ https://t.co/JroqJKrH9Q",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@115839 I'm sorry your book arrived this way! You can find replacement/refund options here: https://t.co/zRrkpVcaDF ^VS",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_108",
+    "customer_text": "#Amazon who packages these games. Ordered to games and both came rattling inside their cases. One is broken. Games may have suffered scratches. @115821 https://t.co/KqpOkpLeP8",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@116912 I'm sorry your items arrived in these conditions. Let's explore your return or replacement options here: https://t.co/RbboDygtAu ^GG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_109",
+    "customer_text": "I seem to have bad luck in trying to get undamaged books from @115821. Sometimes it's damaged in delivery, but this one was packed this way. https://t.co/HnwtSE7e31",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@117790 I'm sorry about the damage, Raymond! Have you explored options for refund/replacement here: https://t.co/Y5jpI9gRhE? ^SH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_110",
+    "customer_text": "My drying rack was broken when I opened the box. What should I do @115821? https://t.co/II4YnrWx0E",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@118092 I'm sorry your order arrived damaged, Marsha! You can see available options for that item here: https://t.co/T994nVbxA2 ^LA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_111",
+    "customer_text": "Hi @AmazonHelp, I’ve purchased something via your app and it’s broken! How can I get it replaced?",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@118710 Hi, Reece! I'm sorry about the broken item. You can check into options here: https://t.co/Ueduyt85xq ^BL",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_112",
+    "customer_text": "I lose faith in humanity on days like this. My friend sends me a 🎁 from @115821 after a crappy week and I come home and it’s been stolen.",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@118921 I'm so sorry! We'd like to look into our available options. Please reach us here: https://t.co/hApLpMlfHN ^AG",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_113",
+    "customer_text": "What the hell @115821?! This boxed is beyond damaged. I wanted a new one! https://t.co/J36cokDm6l",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@119040 I'm sorry! Was it shipped by Amazon or a third-party seller as seen here: https://t.co/MiIirnEONI? ^SE",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_114",
+    "customer_text": "@115821 Amazon truck damaged my lawn my lawn .Love Amazon . So sad no one called me back today as promised! Why?",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@120166 Please send us your details here: https://t.co/PJ1sPeuPfz so we can look into this for you. ^LI",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_115",
+    "customer_text": "@8078 @115821 I don't know who is at fault. I ordered an elgato hd60s but received an empty box. There are 5 others in same sitch https://t.co/XgYujaMC94",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@120175 Oh no! I'm sorry your package arrived empty! Was this order shipped by Amazon or a third-party seller? ^QJ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_116",
+    "customer_text": "@115821 @115850 I have received the product in damaged condition, it's tempered from outside though material was not spilling.",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@120325 Apologies for the inconvenience. Have you tried reporting this to our support team here: https://t.co/2t6DQoUmNZ ? ^AB",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_117",
+    "customer_text": "@AmazonHelp No. But the amazon package tape was broken, and i could see visibly where someone taped it back with their own tape",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@122714 If the tape becomes damaged during transit, the shipper will sometimes re-tape a package so the contents don't fall out. ^MJ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_118",
+    "customer_text": "Someone opened my amazon package, and retaped it. I don't know if it was the delivery driver or someone in the neighborhood",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@122714 I'm sorry your package was tampered with. Was there any damage to the items in the package? ^EM",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_119",
+    "customer_text": "@115850 This is quality of the grinder that was delivered just now.Broken grinder stone and scratched product all over.Mere refnd engh??? https://t.co/FyCq2DSjnE",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@123653 here: https://t.co/rS49hgaADF so that we can assist you accordingly. (2/2) ^MO",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_120",
+    "customer_text": "@AmazonHelp I did. It keeps happening to me. I mostly buy books, and my books end up looking like old books or they come damaged.",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@124652 We'd like check this for you. Please fill this form: https://t.co/beaaDm0muc and we'll look into it. ^MO",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_121",
+    "customer_text": "@AmazonHelp I don't think the package is damaged.Rather carrier communication issue. Why else the changing stories ?found out about return from email.",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@125402 Goodness, my apologies for the frustration! Please keep us posted on your new order. We want to help any way we can! ^KN",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_122",
+    "customer_text": "@amazonhelp so frustrated with your customer service. Out for delivery/resched then told packing slip torn, then package damaged.No solution",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@125402 Just to clarify, was the package returned because it was damaged or did you receive a damaged order? ^VS",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_123",
+    "customer_text": "@115821 I am very heart broken right now, makeup needs to have a fragile label on the box/envelope. https://t.co/g2zBdP40AN",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@125583 I'm sorry your make up arrived damaged. You can view your available options here: https://t.co/Rgi9TmpZd1 ^CO",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_124",
+    "customer_text": "So I still don't have my @115830 order I was supposed to get on Monday. No explanation as to why. Probably been stolen!",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@118232 Sorry you don't have your order! We'd like to see how we can help so please reach us by phone here: https://t.co/JzP7hlA23B ^DD",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_125",
+    "customer_text": "@115821 this is ridiculous! My drum head came in a broken box and is warped and ripped https://t.co/gqxCT5oUXa",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@126722 I'm sorry your order arrived damaged. You can view your available options here: https://t.co/2P2S6QOiUd ^CO",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_126",
+    "customer_text": "@AmazonHelp Over 50 orders. More than a hundred books. Not a single free bookmark. I'm heartbroken, Amazon! :(",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@127182 I get your disappointment, Jenny. As mentioned earlier, I will forward your feedback to our team internally for a review. ^NK",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_127",
+    "customer_text": "@AmazonHelp The measure of a company, is how it responds when it gets it wrong. When @115830 cocks up, it rubs salt into any wounds it has opened.",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@128888 We can't see account information on Twitter. So, without giving sensitive information, what options were you provided with? -DA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_128",
+    "customer_text": "@AmazonHelp Just had even more damaged replacement TV delivered. You overpackage unbreakable items and add no packaging to TVs. Muppets. now 31 min wait",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@128888 Sorry to hear, if you are currently speaking to an agent they should be able to rectify this. Please keep us updated. ^JJ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_129",
+    "customer_text": "On call to @115830 for 4th time. None will collect damaged TV. Told @116324 will, but dimension and weight limits mean only unboxed. Mad",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@128888 I'm sorry for the trouble with this! Please keep us posted on the outcome of your call, we want to ensure this is resolved! ^SB",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_130",
+    "customer_text": "@AmazonHelp This'll be the second return in as many days, what guarantee have I got that I'm going to get an undamaged record...3rd time lucky?!",
+    "ground_truth_intent": "DAMAGED_MISSING_ITEM",
+    "historical_reply": "@129034 We are here for you! Please let us know if you have any further issues with your vinyl. ^BA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Physical damage or lost item claims require customer verification and formal return shipping authorization.",
+    "notes": "Stratified sample for intent DAMAGED_MISSING_ITEM."
+  },
+  {
+    "id": "GOLD_131",
+    "customer_text": "My Kindle not working properly is breaking my heart! 😩💔",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@116093 Oh no! We'd like to help you with this, Kelly! Can you tell us more about what's happening with the Kindle? Thanks! ^AJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_132",
+    "customer_text": "@AmazonHelp I've been in the prime queue, kindle queue, the echo queue, and now on hold again.",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@116322 We'd like to look deeper into this issue. Please provide us with more information here: https://t.co/wpDDiHUP4k. ^LH",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_133",
+    "customer_text": "Que hueva tendré que veré vaselina por Amazon prime video. Obvio me pasan una lana por promocionar prime video @116928",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@116927 Hola Val Damon. Puedes hacer una prueba gratuita de Prime Video si nunca lo has usado. Accesa este enlace: https://t.co/Ce2tgqK8PV ^JJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_134",
+    "customer_text": "I have 2 echos and set up multi room music playback. How do you switch back and forth between multi room audio and playing on only one? Sometimes I like whole house, sometimes I don't want to wake up my wife. @115833 #echo #alexa",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@116931 Please try asking Alexa to stop playing your music, and then ask her to play your music again, but without referencing the \"Multi-Room Music group\" you were previously using: https://t.co/gR1MEFl0If ^JR",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_135",
+    "customer_text": "@AmazonHelp I’m trying off my fire stick",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@117089 (2/2) ... please reach out to us for real-time troubleshooting here: https://t.co/hApLpMlfHN ^WT",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_136",
+    "customer_text": "@115821 thanks for the new movies on Prime video. Something new to distract from pain during CRPS flare ups #TheWitches 🌙🎃",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@117802 We are happy that our new selections bring you some comfort. Stay strong Cassandra ^CH",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_137",
+    "customer_text": "Hey @117804, é possível sincronizar minha conta do @695 para ler no Kindle?",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@117803 Olá, Tiago. Atualmente essa opção não está disponível. Qualquer novidade será anunciada no nosso site e redes sociais. ^CR",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_138",
+    "customer_text": "@117634 I love my new Kindle Oasis! Please tell me that immersion reading will be added in a future update?!",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@117945 I'm glad you're enjoying the Oasis! You're welcome to send us feedback with this e-mail: __email__. ^SJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_139",
+    "customer_text": "Regretting having bought @115821 Kindle Fire Kids Edition. Every day it has some random problem I have to fix. Now saying theres no SD card.",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@118087 Please try to remove and reinsert the SD card following the steps here: https://t.co/ZtaYsyA9rO. Let us know how this helps! ^MB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_140",
+    "customer_text": "@AmazonHelp So much of the programming has changed on Prime. Blues Clues was free, now it's not. Still constantly having problems with my Fire Stick.",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@118091 What kind of problems are you having with your Fire Stick, Mildred? ^VB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_141",
+    "customer_text": "@AmazonHelp Continued buffering, loss of sound and it doesn't save where I leave off in programming.",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@118091 Oh no! We'd like to look into this in real time with you. Please reach us via phone here: https://t.co/hApLpMlfHN ^AB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_142",
+    "customer_text": "@AmazonHelp enviei meu ebook para o premio Kindle às 22h de hoje. Porém, a ferramenta kdp fala q demora 72h pra publicar. Vou concorrer mesmo assim, certo?",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@118230 Recomendo entrar em contato diretamente com o SAC da KDP, para eles conferirem o seu caso: https://t.co/iAtVDKIvAN ^CR",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_143",
+    "customer_text": "@AmazonHelp How do I disable notifications indicated by the bell icon in upper left corner of iOS Kindle app?",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@118501 We'd like to help in real-time! When you have a free moment, please reach out to us here: https://t.co/hApLpMlfHN ^HM",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_144",
+    "customer_text": "Fool me twice! Another kindle release day, another missed \"guaranteed release day delivery\" #AMAZONFAIL",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@119447 I'm sorry your Kindle hasn't arrived! Can you tell us the current tracking status? https://t.co/Y5jpI9gRhE ^EZ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_145",
+    "customer_text": "@117795 Now that I’m streaming to your Prime Do U have audio assisted movies, TV, etc. as I am visually impaired. ?",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@119627 That's a great question! You can learn more on how to turn on Audio Descriptions here: https://t.co/qiN8mb0MXN ^SE",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_146",
+    "customer_text": "@116618 I'm having problems watching. Its always freezing or buffering.",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@119799 We want to help but we need more information. Can you tell us more about what device you're using? ^EA",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_147",
+    "customer_text": "@AmazonHelp @119973 Es nervt das ich mich seit neusten beinahe täglich auf. Fire tv stick neu einloggen muss 😈",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@119972 Oje! Melde dich doch gleich mal hier https://t.co/wWn0qM25US und lass meine Kollegen prüfen, was da los sein könnte. Gruß ^DS",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_148",
+    "customer_text": "@AmazonHelp When will Madam Secretary S4 will be available on Amazon Prime Video India?",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@120466 Currently, we do not have an update on this. Please stay tuned. ^HK",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_149",
+    "customer_text": "@AmazonHelp I already talked to your customer care. They are saying kindle prime reading is only available for US residents. I am asking why?",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@120475 I have forwarded your comment as a feedback internally for a review. Appreciate your understanding. (3/3) ^SI",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_150",
+    "customer_text": "@AmazonHelp Why Amazon.in prime members are not allowed to access kindle prime reading section? @117634 @115850 @115821",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@120475 Please connect with us here: https://t.co/vlvfJr4nN9 and we'll help you with this. ^HK",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_151",
+    "customer_text": "@AmazonHelp I am unable to Use Prime Video even though I am Prime Member it tells me to sign up for prime Membership",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@121290 Apologies for the trouble. Could you please let us know if you have logged in on prime enabled account? ^SB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_152",
+    "customer_text": "Warum kann ich meinen #kindle oasis und Zubehör noch nicht bewerten? @116316 Angst vor schlechten Bewertungen? Zu recht!",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@122597 Vielen Dank für den Hinweis, ich lasse das gleich mal von den Kollegen prüfen. Viele Grüße ^DW",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_153",
+    "customer_text": "@117086 Prime Video cobrando em reais e por 7 reais e pouco? Tô dentro!",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@123031 Olá Filipe, como podemos lhe ajudar? ^AZ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_154",
+    "customer_text": "@116935 are the servers having problems. I'm unable to stream music past the first song on the station.",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@123360 Hey there! We're not able to replicate any issues on our end, but we'd love to help! Is your app up to date? ^NM",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_155",
+    "customer_text": "@AmazonHelp Meu kindle e mais alguns livros \\o/ https://t.co/N7WuKp1AFi",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@123486 Felicidade mesmo! 😍 conta para gente qual é seu gênero literário favorito? ^AZ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_156",
+    "customer_text": "@117634 Kindle Unlimited website and android app down?? Any ETA on fix?",
+    "ground_truth_intent": "DIGITAL_SERVICES_PRIME",
+    "historical_reply": "@123961 Hi, sorry, can you tell us a bit more about the issue you're facing? ^JJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Digital device or streaming troubleshooting can be resolved with self-service app reboot guidance.",
+    "notes": "Stratified sample for intent DIGITAL_SERVICES_PRIME."
+  },
+  {
+    "id": "GOLD_157",
+    "customer_text": "Way to drop the ball on customer service @115821 so pissed right now!",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@115820 I'm sorry we've let you down! Without providing any personal information, will you describe the issue? We'd love to help. ^TN",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_158",
+    "customer_text": "@AmazonHelp That page is useless - doesn’t allow me to state it hasn’t been delivered; only tells me it has! How can you sort this out?",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@115835 You can also request a call back here Martin https://t.co/zH8UlhTGcc ^KM",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_159",
+    "customer_text": "@116090 Saying I preordered to early, terrible customer service. Won’t renew prime if this isn’t fixed.",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@116088 I'm sorry for the frustration, Anthony! Can you tell me more about which pre-order bonuses are missing? ^EA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_160",
+    "customer_text": "@116324 not dlvd after 1 wk. U lied 2 @AmazonHelp saying left in safe place on Fri. Yesterday u said wld be dlvd 24-48hrs. Sort this now!",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@116323 I'm sorry your order hasn't arrived yet! Please let us know if you haven't received it within 48 hours. ^EB",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_161",
+    "customer_text": "@115821 So for the 4th time the package I ordered was tossed onto my property instead of being left on my front porch. It was raining. Package wet. I’ve complained repeatedly to no avail. Since Amazon switched from USPS to local delivery Svc the SERVICE is terrible.",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117198 I am so sorry this has happened. Can you please clarify the carrier for us? We want to assist! You can see that info here: https://t.co/WvaNTeDWQh ^BA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_162",
+    "customer_text": "@AmazonHelp I got it sorted out, after multiple phone calls and failed chat sessions (those were horrible btw)",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117631 Thanks for the update! I'm sorry about the order issues and your inconvenience, but glad that everything has been resolved. ^SE",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_163",
+    "customer_text": "Not here pissed @115821",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117635 I'm sorry your order hasn't arrived! Please reach us here: https://t.co/hApLpMlfHN if it doesn't arrive tomorrow. ^EZ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_164",
+    "customer_text": "Worst experience in shopping no product no refund , been 40 days. F&amp;@694 it @115821",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117789 Please report this to our support team here: https://t.co/TdDksLo6Mf and we'll look into this. 2/2 ^HD",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_165",
+    "customer_text": "Ordered cases for our new iPhone X and @115821 sent me iPhone 8 cases for BOTH ones. NOT THE SAME PHONE! #pissed",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117793 I'm sorry you didn't receive the correct items! I recommend trying the steps here for wrong items: https://t.co/3B6iUhjS3U ^SJ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_166",
+    "customer_text": "I was incredibly disappointed with my customer service call w @117795 after my order was 2x delayed and lost.",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117794 I'm sorry for the bad experience! What options did we offer on the phone? ^TN",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_167",
+    "customer_text": "@AmazonHelp amazon just doesn’t seem to get it together, poor customer service, warranty is a scam",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117845 Sorry to hear you're having issues with your Fire tablet. Seems to be a bit of an issue with the link above. Please provide info here: https://t.co/R55eEQwSEs so we can look into this for you. ^ES",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_168",
+    "customer_text": "@AmazonHelp I was on the phone for an hour; kids fire tablet not working , warranty is a lie and your agents are rude.",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117845 I'm sorry for this poor experience. We'd like to look into this. Please pass your details to us here: https://t.co/vQp02VsuI4 ^RR",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_169",
+    "customer_text": "@116935 worst customer service; got hung up on twice",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117845 I'm so sorry we've let you down; that's never our intent! We'd like to take a closer look into this and explore options with you. Please reach us by phone or chat when you have a moment for direct assistance: https://t.co/hApLpMlfHN ^LL",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_170",
+    "customer_text": "el soporte al cliente de @115821 es tan buena onda, que dan ánimos de contactarlos sólo para platicar con ellos :P",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117947 Garcias Jäcob Pintle :). Nos alegra mucho saber que hacemos bien nuestro trabajo. Tratamos de mejorar cada día más. 😃🤝 ^JJ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_171",
+    "customer_text": "@AmazonHelp The tracking indicated as here, and then, it seemed to go back in time, saying it was not here anymore. I believe it's USPS",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@117948 Please get in touch with us here: https://t.co/Q7Ftz6nj80 and we'd be happy to review available options with you. ^EZ",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_172",
+    "customer_text": "@AmazonHelp It's point less to actually fill this form.Since you always give me those replies with I'll personally follow up and stuff..",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@118356 details through the link provided above so that we can look into the issue. 2/2 ^SH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_173",
+    "customer_text": "@AmazonHelp Uff, I am continuously trying to tell you that I have already replied and a 24 hr tat for receiving call was given which​ U have failed on",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@118505 If you've already replied to the email sent by our team. I'm sure our team will reach out to you soon with an update. ^VM",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_174",
+    "customer_text": "@AmazonHelp I have replied Sir, try and understand the gratitude of this event. You are exposing yourself in bad light",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@118505 Apologies, thank you for replying to the email. We'll get back on this soon. Appreciate your patience. ^BS",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_175",
+    "customer_text": "@AmazonHelp I have replied to it many and still have not received any response, sending you a legal notification for closing this fraud business",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@118505 Sorry for the trouble you've had. Kindly reply to the email you've received from our team &amp; we'll look into this further.^MM",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_176",
+    "customer_text": "@AmazonHelp Nobody has called till now, why are you sending fake replies",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@118505 Sorry for the stretch. Please reply to the email you've received from our Social media team and we'll get back. ^KA",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_177",
+    "customer_text": "@AmazonHelp I have replied dozen of times first check then reply. So silly",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@118505 Thanks for writing back to us. Our specialist team will contact you with an update on your issue soon. Please wait. ^ZH",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_178",
+    "customer_text": "@115850 Please revert whether you would be able to recalculate the gesture amount, revert at the earliest to settle this out of court for all mishap",
+    "ground_truth_intent": "ESCALATION_HUMAN_COMPLAINT",
+    "historical_reply": "@118505 We're working on your concern. We'll reach out to you soon and update. ^RI",
+    "ground_truth_escalation": "ESCALATE",
+    "escalation_reason": "Severe customer frustration or supervisor complaint requiring empathetic human intervention.",
+    "notes": "Stratified sample for intent ESCALATION_HUMAN_COMPLAINT."
+  },
+  {
+    "id": "GOLD_179",
+    "customer_text": "@AmazonHelp Okay, danke für die Info",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115824 Wir haben zu danken. Schönen Abend noch. ^JS",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_180",
+    "customer_text": "@115825 also, beim Addams Family-Film in Prime sind Bild und Ton nicht wirklich synchron. Wie kommt's?",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115824 Hi, wir erhalten die Filme/Serien so vom jeweiligen Studio. Gebe ich aber direkt als Feedback dorthin weiter. Gruß ^JS",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_181",
+    "customer_text": "Thanks for the style advice, @115833 look ...I think? #Halloween2017 #flamingo https://t.co/XvI54La043",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115832 Alexa says both styles are working for you! My vote goes to the Flamingo look! ^SE",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_182",
+    "customer_text": "@AmazonHelp Hi ready for some help",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115834 Were you able to reach us at the link DW provided? ^TR",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_183",
+    "customer_text": "@AmazonHelp Is the Echo Show no longer supported?",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115834 The Echo Show is supported, please reach us for some live troubleshooting at your convenience: https://t.co/hApLpMlfHN ^DW",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_184",
+    "customer_text": "In response to your @115830 packing video, this packaging was for a 2ft washing line pole @115837 https://t.co/X21SQHgC0K",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115836 Thanks for bringing this to our attention! Please also leave packing feedback here: https://t.co/PMiShxgPvp so we may improve.^KL",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_185",
+    "customer_text": "@AmazonHelp I don't want a form to fill out that logs a response no one reads. I want to prevent AMZL from touching my stuff. Possible, or no?",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115838 Is there a current order you're having difficulties with? Please let us know, we'd like to help! ^KL",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_186",
+    "customer_text": "@AmazonHelp Already handled, just venting. It was a pretty big bummer.",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115839 Let us know if there’s anything else we can do for you! We're happy to help out any way we can! ^FR",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_187",
+    "customer_text": "@115841 @115821 Feliz #Halloween2017 https://t.co/edHbRDnM8x",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115840 ¡Que lindoooooooooo! 😍🐶🎃 ^JJ https://t.co/YSOVnjaPrO",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_188",
+    "customer_text": "@AmazonHelp Details sent. Please check.",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@115849 Thanks for confirming that the details have been shared. Our team will give it a look and reach out shortly. ^AB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_189",
+    "customer_text": "@AmazonHelp Never got the beta and now I’m being told I won’t get ANY of the other stuff. Including Last Jedi content and or bonus classes. Anything! :(",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116088 We'd like to see what we can do to help. What date did you place the order on, and which version did you order? ^MB",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_190",
+    "customer_text": "@AmazonHelp Fulfilled by Amazon. It’s quite disturbing you’re selling counterfeit items, and can’t be trusted.",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116091 We'd like to look into this with you in real time, Bry. When you can, please ring or chat in with us: https://t.co/JzP7hlA23B ^BL",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_191",
+    "customer_text": "Two fake items in one day. Time to cancel my Amazon Prime membership. @AmazonHelp",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116091 Oh no! I'm so sorry to hear this. Was the item sold by Amazon directly or Third-party seller: https://t.co/aaDyEz1VgE. ^LH",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_192",
+    "customer_text": "@AmazonHelp I have. No luck.",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116092 Sorry you're still having trouble! What error are you seeing when you try to use the app? ^JP",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_193",
+    "customer_text": "@115821 please spend time &amp; money to fix your app. Constant issues with it.",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116092 Oh no, Barton! Have you tried uninstalling and re-installing the app? Perhaps a power cycle too? Please let us know. ^KL",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_194",
+    "customer_text": "@116096 Truly. This is the strangest vampire book I’ve ever received. 😜 cc @43760 @AmazonHelp #misship https://t.co/Zad7Az14Zg",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116095 I'm sorry you received an incorrect item. Have you checked out our return/replacement options here: https://t.co/FRsodhtXKJ? ^FJ",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_195",
+    "customer_text": "@AmazonHelp Just now, don't use Amazon much so didn't know the process if you don't receive an item",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116314 Please allow 48 hours for the seller to respond, Allen. Let us know how it works out and if we can help with anything else! ^CN",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_196",
+    "customer_text": "@AmazonHelp Wasn't tracked as sent via Royal Mail. I've emailed the seller.",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116314 How long has it been since you've e-mailed the seller? ^TR",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_197",
+    "customer_text": "@AmazonHelp Yeah I sent you a DM too. Had an email saying when it had been dispatched but nothing since.",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116314 We're unable to view any account information via Twitter. What's the current tracking shown here: https://t.co/aaDyEz1VgE? ^AG",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_198",
+    "customer_text": "@AmazonHelp I'm learning German, so I don't really mind between German/English. If I have to choose, I say German.",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116315 Du kannst bei den Kategorien \"Bücher\" oder \"Bücher Fremdsprachig\" auswählen, wobei ersteres deinem Wunsch entspricht. Gruß ^JS",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_199",
+    "customer_text": "@116316 Hi. How can I restrict results to German language books, while searching titles on amazon.de?",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116315 Hi, just a question at the beginning - do you prefer answers in German or English? ^NW",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  },
+  {
+    "id": "GOLD_200",
+    "customer_text": "Erm @AmazonHelp I bought this item for £5.99... why am I only getting £1.67 back?! https://t.co/lb33bFOcW0",
+    "ground_truth_intent": "FEEDBACK_CHITCHAT_GENERAL",
+    "historical_reply": "@116318 We'd like to take a closer look into this refund for you. Please reach us at:https://t.co/JzP7hlA23B ^CC",
+    "ground_truth_escalation": "AUTO_HANDLE",
+    "escalation_reason": "Casual brand mention, compliment, or general non-actionable comment suitable for automated polite response.",
+    "notes": "Stratified sample for intent FEEDBACK_CHITCHAT_GENERAL."
+  }
+]

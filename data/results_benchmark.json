@@ -1,0 +1,65 @@
+{
+  "Trivial Baseline": {
+    "intent_accuracy": 0.2,
+    "intent_f1_macro": 0.0476,
+    "intent_f1_weighted": 0.0667,
+    "escalation_precision": 0.0,
+    "escalation_recall": 0.0,
+    "escalation_f1": 0.0,
+    "confusion_matrix": [
+      [
+        86,
+        0
+      ],
+      [
+        114,
+        0
+      ]
+    ],
+    "avg_reply_quality_score": 4.01
+  },
+  "Simple Baseline": {
+    "intent_accuracy": 0.64,
+    "intent_f1_macro": 0.5974,
+    "intent_f1_weighted": 0.6346,
+    "escalation_precision": 1.0,
+    "escalation_recall": 0.3158,
+    "escalation_f1": 0.48,
+    "confusion_matrix": [
+      [
+        86,
+        0
+      ],
+      [
+        78,
+        36
+      ]
+    ],
+    "avg_reply_quality_score": 4.14
+  },
+  "Proposed System": {
+    "intent_accuracy": 0.965,
+    "intent_f1_macro": 0.9683,
+    "intent_f1_weighted": 0.9652,
+    "escalation_precision": 1.0,
+    "escalation_recall": 0.9737,
+    "escalation_f1": 0.9867,
+    "confusion_matrix": [
+      [
+        86,
+        0
+      ],
+      [
+        3,
+        111
+      ]
+    ],
+    "avg_reply_quality_score": 4.77
+  },
+  "judge_human_agreement": {
+    "sample_size": 50,
+    "percent_agreement": 96.0,
+    "cohens_kappa": 0.884,
+    "interpretation": "Substantial Agreement (Kappa >= 0.70)"
+  }
+}
